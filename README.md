@@ -64,7 +64,7 @@ The **Solana NFT Marketplace Bot** is a sophisticated automation tool designed t
 ```from src.bot.bidding import place_bid
 place_bid(nft_id='NFT123', bid_amount=2.0)
 ```
-###  Setup and Installation Instructions
+##  Setup and Installation Instructions
 
 - Clone the repository.
 - Install the required dependencies:
