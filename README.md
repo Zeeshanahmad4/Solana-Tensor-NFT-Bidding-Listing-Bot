@@ -1,4 +1,4 @@
-<h1 align="center"> Solana-NFT-Marketplace-Bot🚀</h1>
+<h1 align="center"> Solana Tensor NFT Bidding/Listing Bot🚀</h1>
 
 <div align="center">
   <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
