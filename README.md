@@ -35,9 +35,9 @@
   - [To-Do Features](#3️⃣-to-do-features)
 - [Requirements](#4️⃣-requirements)
 - [Usage Examples](#5️⃣-usage-examples)
-   - [Setup and Installation Instructions](#6️⃣-setup-and-installation-instructions)
-- [Troubleshooting Tips](#7️⃣-troubleshooting-tips)
-- [Contribution Guidelines](#8️⃣-contribution-guidelines)
+   - [Setup and Installation Instructions](#-setup-and-installation-instructions)
+- [Troubleshooting Tips](#6️⃣-troubleshooting-tips)
+- [Contribution Guidelines](#7️⃣-contribution-guidelines)
 
 
 ## 1️⃣ Project Overview
@@ -54,3 +54,21 @@ The **Solana NFT Marketplace Bot** is a sophisticated automation tool designed t
 - **Price Analysis:** Implement real-time price analytics for smarter bidding strategies. 📊
 - **Notification System:** Alerts for bid status changes and market updates. 🔔
 - **Advanced User Interface:** Develop a more intuitive and feature-rich web interface. 🖥️
+
+## 4️⃣ Requirements
+- Python 3.8+ 🐍
+- Flask 🌐
+- Solana CLI tools (for interacting with the Solana blockchain) 🔗
+
+## 5️⃣ Usage Examples
+```from src.bot.bidding import place_bid
+place_bid(nft_id='NFT123', bid_amount=2.0)
+```
+###  Setup and Installation Instructions
+
+- Clone the repository.
+- Install the required dependencies:
+```pip install -r requirements.txt```
+Run the web interface:
+```python src/interface/web_interface.py```
+
