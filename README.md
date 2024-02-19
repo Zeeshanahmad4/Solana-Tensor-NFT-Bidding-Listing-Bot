@@ -43,3 +43,9 @@
 ## 1️⃣ Project Overview
 
 The **Solana NFT Marketplace Bot** is a sophisticated automation tool designed to enhance the trading experience on the Tensor NFT marketplace, powered by the Solana blockchain. This bot enables users to bid on NFTs, list NFTs for sale, and smartly adjust bids to optimize trading strategies.
+
+## 2️⃣ Features
+
+- **Automated Bidding:** Place bids on your favorite NFTs without manual intervention.
+- **NFT Listings:** Easily list your NFTs for sale with automated processes.
+- **Intelligent Bid Adjustment:** Our bot adjusts your bids based on market activity, ensuring optimal bid placement.
