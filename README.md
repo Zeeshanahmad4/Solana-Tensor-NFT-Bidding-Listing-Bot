@@ -28,3 +28,18 @@
   <br />
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
+
+## Table of Contents
+- [Project Overview](#1️⃣-project-overview)
+- [Features](#2️⃣-features)
+  - [To-Do Features](#3️⃣-to-do-features)
+- [Requirements](#4️⃣-requirements)
+- [Usage Examples](#5️⃣-usage-examples)
+   - [Setup and Installation Instructions](#6️⃣-setup-and-installation-instructions)
+- [Troubleshooting Tips](#7️⃣-troubleshooting-tips)
+- [Contribution Guidelines](#8️⃣-contribution-guidelines)
+
+
+## 1️⃣ Project Overview
+
+The **Solana NFT Marketplace Bot** is a sophisticated automation tool designed to enhance the trading experience on the Tensor NFT marketplace, powered by the Solana blockchain. This bot enables users to bid on NFTs, list NFTs for sale, and smartly adjust bids to optimize trading strategies.
