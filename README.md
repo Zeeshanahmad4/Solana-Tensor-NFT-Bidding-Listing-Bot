@@ -1,4 +1,3 @@
-# Solana-NFT-Marketplace-Bot
 <h1 align="center"> Solana-NFT-Marketplace-Bot🚀</h1>
 
 <div align="center">
